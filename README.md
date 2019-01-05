@@ -13,6 +13,6 @@ references:
 
 Like these:
 
-<img src="Humans.jpg" width="250"> <img src="Manatees.jpg" width="250"> <img src="Mantises.png" width="250">
-<img src="Otters.png" width="250"> <img src="Platypuses.png" width="250"> <img src="Rhino.jpg" width="250">
-<img src="Tardigrades.jpg" width="250"> <img src="Giraphs.png" width="250"> <img src="Ostrichs.png" width="250">
+<img src="Humans.jpg" width="250"> <img src="Manatees.jpg" width="250"> <img src="Mantises.png" width="250"> <img src="Otters.png" width="250">
+<img src="Platypuses.png" width="250"> <img src="Rhino.jpg" width="250"> <img src="Tardigrades.jpg" width="250"> <img src="Giraphs.png" width="250">
+<img src="Ostrichs.png" width="250"> <img src="You.png" width="250">
